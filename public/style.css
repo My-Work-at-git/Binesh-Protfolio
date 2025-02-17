@@ -1,0 +1,15 @@
+.recipe-block {
+    display: block;
+    width: 25%;
+    height: 25%;
+    background-color: #FFF5EE;
+    padding: 5px 5px;
+    /* border: 2px solid black; */
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+}
+img {
+    width: 100%;
+}
+.recipe-short-desc {
+    padding: 2px;
+}
