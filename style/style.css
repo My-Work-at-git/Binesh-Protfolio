@@ -1,8 +1,11 @@
 #name {
     text-align: center;
-    color: blue;
+    color: rgb(41, 115, 178);
 }
 .basic-info {
     text-align: center;
+}
+*{
+    background-color: rgb(242, 239, 231);
 }
 
