@@ -5,7 +5,11 @@
 .basic-info {
     text-align: center;
 }
-*{
+.page-background {
     background-color: rgb(242, 239, 231);
+}
+.underline-main-text {
+    text-decoration-line: underline;
+    text-decoration-thickness:2px;
 }
 
