@@ -13,3 +13,17 @@ img {
 .recipe-short-desc {
     padding: 2px;
 }
+.about-header {
+    font-size: 24px;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-align: center;
+    text-underline-offset: auto;
+    text-decoration: underline 3px;
+}
+.body-font {
+    font-family: sans-serif;
+    line-height: 1.5;
+    font-size: 16px;
+    margin: 25px
+}
