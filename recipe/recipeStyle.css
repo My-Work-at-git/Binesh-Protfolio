@@ -1,5 +1,5 @@
 html {
-    background-color: beige;;
+    background-color: rgb(229, 217, 242);
 }
 div.coverImage {
     width: 1000px;
@@ -23,3 +23,10 @@ div.content {
 #recipe-title, h2 {
     text-align: center;
 }
+/* .black-text {
+    color: white;
+    align-content: center;
+    align-items: center;
+    text-align-last: center;
+    background-color: rgba(245, 245, 220, 0.37);
+} */
